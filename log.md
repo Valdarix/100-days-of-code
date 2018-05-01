@@ -2,7 +2,7 @@
 
 ### Day 1: May 1, Tuesday
 
-**Today's Progress**: Coded throught the entire HTML section on Free Code Camp.
+**Today's Progress**: Coded through the entire HTML section on Free Code Camp.
 
 **Thoughts** HTML is an old friend but I've used CMS for so long that I really needed to get back to basics. 
 
