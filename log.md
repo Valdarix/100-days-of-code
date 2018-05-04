@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: May 4, Friday
 
+**Today's Progress**: Today was hard! Finally! worked through the JS Algorithims on FreeCodeCamp. A few were really tricky. Also got to decrypt a Casear cypher which was cool since I wrote a Casesar Cypher encrypter for CS50 on EdX a few years ago in C. 
+
+**Thoughts** I realize that I need to spend some time really digging into algorithims. Most of the stuff tossed at me was trivial once I wrapped my head around it but getting there was a challenge on a few of them. Will have to find some good materials on algorithms. 
+
+**Link(s) to work**
+1. [Free Code Camp](https://www.freecodecamp.com)
+ 
 ### Day 3: May 3, Thursday
 
 **Today's Progress**: Did some JS lessons on Free Code Camp and worked on a SQL stored procedure for work
