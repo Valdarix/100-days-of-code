@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day5: May 5, Saturday
+
+**Today's Progress**: Today was spent on the first challenge for Free Code Camps jQuery/Ajax projects. The first was a Random Quote Generator that would tweet to your twitter account. Pretty fun challenge and another project to add to my portgolio. Like the others I will go back and do some clean up work on them at a later date.
+
+**Thoughts**: Today was fun. Got to work with APIs and JSON and everything was suprisingly easy to work with. I did this project without Bootstrap and I think it made me appreaciate Bootstrap so much more. Can't wait for the next challenge. 
+
+**Link(s) to work**
+1. [Random Quote Generator] (https://codepen.io/jwcodemonkey/pen/JvrOWJ?editors=1100)
+
 ### Day 4: May 4, Friday
 
 **Today's Progress**: Today was hard! Finally! worked through the JS Algorithims on FreeCodeCamp. A few were really tricky. Also got to decrypt a Casear cypher which was cool since I wrote a Casesar Cypher encrypter for CS50 on EdX a few years ago in C. 
