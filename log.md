@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day5: May 5, Saturday
+### Day 6: May 6, Sunday
+
+**Today's Progress**: Today I was able to finish up the local weather application for Free Code Camp. It's not pretty but it uses bootstrap which I am finding I like more and more each day. 
+
+**Thoughts**: Today was a challenge to find motivation. Spent most of my 3 hours coding on about 10 lines of code and it was a bit frustrating to say the least. Howeer I finished the project and look forward to tackling the next one. 
+
+**Link(s) to work**
+1. [Local Weather Application] (https://codepen.io/jwcodemonkey/pen/erGVrw)
+
+### Day 5: May 5, Saturday
 
 **Today's Progress**: Today was spent on the first challenge for Free Code Camps jQuery/Ajax projects. The first was a Random Quote Generator that would tweet to your twitter account. Pretty fun challenge and another project to add to my portgolio. Like the others I will go back and do some clean up work on them at a later date.
 
