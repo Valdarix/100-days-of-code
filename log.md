@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 7: May 7, Monday
+
+**Today's Progress**: Today was 1 step foward and 5 steps back on Free Code Camp. The Wikipedia API was giving me fits and I know it's becuase I am struggling with AJAX calls. I was able to get the general design done and looked at a few examples, but nothing clicked. 
+
+**Thoughts**: I coded today, thats about all I can say. Time was spent coding. Will I be able to pick it up tomorrow with fresh eyes?
+
+
 ### Day 6: May 6, Sunday
 
 **Today's Progress**: Today I was able to finish up the local weather application for Free Code Camp. It's not pretty but it uses bootstrap which I am finding I like more and more each day. 
