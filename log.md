@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 8: May 8, Tuesday
+
+**Today's Progress**: Finally sorted out the Wikipedia API calls. It ended up being something really stupid in the end. But solving the problem is half the challenge, right? Finished the main function of the wikipedia viewer but it's not what I truly want it to be. I did go above and beyond other samples however in that my viewer includes a snippet of the article for the viewer to read before they click over to wikipedia. CSS on the page could be better but I find myself struggling to care about the overall look of the pages at this point. 
+
+**Thoughts**: I wish I had gotten more done today and that I could care about CSS but truth be told I just want to move through this so I can study up more on layout tools like Bootstap, CSS Grid, etc. 
+
+
+
 ### Day 7: May 7, Monday
 
 **Today's Progress**: Today was 1 step foward and 5 steps back on Free Code Camp. The Wikipedia API was giving me fits and I know it's becuase I am struggling with AJAX calls. I was able to get the general design done and looked at a few examples, but nothing clicked. 
 
 **Thoughts**: I coded today, thats about all I can say. Time was spent coding. Will I be able to pick it up tomorrow with fresh eyes?
+
+**Link(s) to work**
+1. [Wikipedia Search Tool] (https://codepen.io/jwcodemonkey/pen/OZOqGd)
 
 
 ### Day 6: May 6, Sunday
