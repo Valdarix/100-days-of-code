@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 10: May 10, Thursday
+
+**Today's Progress**: Wrapped up the Twitch API app for Free Code Camp today. Quite happy with how it all turned out. 
+
+**Thoughts**: I could have made this asthetically better for sure, but that seems to be my downfall currently. Finding the desire to spend time on CSS is really not something I can do at the moment. 
+
+**Link(s) to work**
+1. [Twitch API Project] (https://codepen.io/jwcodemonkey/pen/bMLmdV
+
 ### Day 9: May 9, Wednesday
 
 **Today's Progress**: I got to read up on the Twitch API but that is about all I was able to get done today for #100 DaysOFCode
