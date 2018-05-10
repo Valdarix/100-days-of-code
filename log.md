@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 9: May 9, Wednesday
+
+**Today's Progress**: I got to read up on the Twitch API but that is about all I was able to get done today for #100 DaysOFCode
+
+**Thoughts**: Today was pretty much a wash as far as getting anything productive done. It was my 15th Wedding Anniversary today so I wasn't able to any coding after work however I did get in several hours of coding (non-work code) while at work. I also had a chance to read up on the TwitchAPI for my next Free Code Camp project. 
+
 ### Day 8: May 8, Tuesday
 
 **Today's Progress**: Finally sorted out the Wikipedia API calls. It ended up being something really stupid in the end. But solving the problem is half the challenge, right? Finished the main function of the wikipedia viewer but it's not what I truly want it to be. I did go above and beyond other samples however in that my viewer includes a snippet of the article for the viewer to read before they click over to wikipedia. CSS on the page could be better but I find myself struggling to care about the overall look of the pages at this point. 
