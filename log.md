@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 11: May 11, Friday
+
+**Today's Progress**: Day 11 has been challenging, Working through the intermediate algorithms has made my head spin today. It's hard not to just Google the answers and move on. I write algorithms all the time but these just seem to be pushing me. 
+
+**Thoughts**: I despise these algorithms. Looping for the sake of looping, much easier when I am solving a real world problem.
 
 ### Day 10: May 10, Thursday
 
