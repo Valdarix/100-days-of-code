@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: May 12, Tuesday
+
+**Today's Progress**: Day 12 was more difficult algorithms on Free Code Camp. After 3 days off it was difficult to get back in the rhythm.
+
+**Thoughts**: I still don't like these algorithms. I get their purpose but recreating trivial algorithms that I can Google is just annoying. 
+
 ### Day 11: May 11, Friday
 
 **Today's Progress**: Day 11 has been challenging, Working through the intermediate algorithms has made my head spin today. It's hard not to just Google the answers and move on. I write algorithms all the time but these just seem to be pushing me. 
